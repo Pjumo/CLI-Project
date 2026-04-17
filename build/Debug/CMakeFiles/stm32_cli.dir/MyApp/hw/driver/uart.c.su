@@ -1,0 +1,9 @@
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:37:6:HAL_UART_RxCpltCallback	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:48:10:uartAvailable	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:55:9:uartRead	16	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:65:6:uartReadBlock	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:74:6:uartOpen	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:19:6:uartInit	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:90:6:uartClose	0	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:95:10:uartWrite	16	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/uart.c:111:10:uartPrintf	148	static

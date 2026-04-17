@@ -1,0 +1,7 @@
+G:/Project/STM/stm32_cli/build/Debug/CMakeFiles/stm32_cli.dir
+G:/Project/STM/stm32_cli/build/Debug/CMakeFiles/edit_cache.dir
+G:/Project/STM/stm32_cli/build/Debug/CMakeFiles/rebuild_cache.dir
+G:/Project/STM/stm32_cli/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+G:/Project/STM/stm32_cli/build/Debug/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+G:/Project/STM/stm32_cli/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+G:/Project/STM/stm32_cli/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

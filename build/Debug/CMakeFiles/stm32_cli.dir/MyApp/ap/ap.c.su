@@ -1,0 +1,8 @@
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:65:13:setPeriodTask	0	static
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:70:13:apStopAutoTask	8	static
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:8:6:ledSystemTask	16	static
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:28:6:tempSystemTask	16	static
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:47:6:monitorSystemTask	8	static
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:77:6:apInit	8	static
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:85:6:apMain	8	static
+G:/Project/STM/stm32_cli/MyApp/ap/ap.c:56:6:StartDefaultTask	8	static

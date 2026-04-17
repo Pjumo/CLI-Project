@@ -1,0 +1,6 @@
+G:/Project/STM/stm32_cli/MyApp/hw/driver/log.c:24:6:logInit	0	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/log.c:28:6:logSetLevel	0	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/log.c:33:9:logGetLevel	0	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/log.c:5:6:cliLog	16	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/log.c:37:9:logGetRuntimeLevel	0	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/log.c:41:6:logPrintf	144	static

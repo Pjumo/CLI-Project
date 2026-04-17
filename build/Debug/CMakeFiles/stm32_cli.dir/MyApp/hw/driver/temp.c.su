@@ -1,0 +1,5 @@
+G:/Project/STM/stm32_cli/MyApp/hw/driver/temp.c:7:6:tempInit	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/temp.c:12:7:tempReadAuto	0	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/temp.c:36:6:tempStartAuto	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/temp.c:39:6:tempStopAuto	8	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/temp.c:22:7:tempReadSingle	8	static

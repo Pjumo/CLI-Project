@@ -1,0 +1,4 @@
+G:/Project/STM/stm32_cli/MyApp/hw/driver/my_gpio.c:3:22:getPortPtr	24	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/my_gpio.c:33:13:gpioExtInit	32	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/my_gpio.c:43:6:gpioExtWrite	16	static
+G:/Project/STM/stm32_cli/MyApp/hw/driver/my_gpio.c:59:8:gpioExtRead	16	static
